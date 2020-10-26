@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int ch , n;
+    int ch ;
 
     cout<<" Enter the number from 1 to 7 of the week days:\n";
     cin>>ch;
