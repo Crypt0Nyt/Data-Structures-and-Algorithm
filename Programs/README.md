@@ -12,3 +12,5 @@ P04 - Write a C program to find maximum between two numbers using switch case.
 P05 - Write a C program to check whether a number is even or odd using switch case.
 
 P06 - Write a C program to check whether a number is positive, negative or zero using switch case.
+
+P07 - Write a C program to create Simple Calculator using switch case.
