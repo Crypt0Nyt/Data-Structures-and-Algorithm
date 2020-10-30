@@ -1,3 +1,4 @@
+//Write a program to find maximum between two numbers using switch case.
 #include <bits/stdc++.h>
 
 using namespace std;
