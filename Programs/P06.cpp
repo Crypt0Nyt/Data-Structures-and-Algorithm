@@ -1,3 +1,4 @@
+//Write a program to check whether a number is positive, negative or zero using switch case.
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -5,7 +6,7 @@ using namespace std;
 int main()
 {
     int num;
-    cout<<"Enter the number you want to check:";
+    cout<<"Enter the number you want to :";
     cin>>num;
 
     switch (num > 0)
