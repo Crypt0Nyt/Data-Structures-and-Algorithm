@@ -1,3 +1,4 @@
+//Write a C++ program to print day of week name using switch case.
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -29,7 +30,7 @@ int main()
 
         case 5:
             cout<<"Friday";
-            break;
+            break; 
 
         case 6:
             cout<<"Saturday";
