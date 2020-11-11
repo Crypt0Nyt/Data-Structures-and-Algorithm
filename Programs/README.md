@@ -42,4 +42,6 @@ P18 - Write a program to count number of digits in a number.
 
 P19 - Write a program to find first and last digit of a number.
 
+P20 - Write a program to find sum of first and last digit of a number.
+
 
