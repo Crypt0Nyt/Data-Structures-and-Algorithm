@@ -43,3 +43,5 @@ P18 - [Write a program to count number of digits in a number.](https://github.co
 P19 - [Write a program to find first and last digit of a number.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P19.cpp)
 
 P20 - [Write a program to find sum of first and last digit of a number.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P20.cpp)
+
+P21 - [Write a program to enter a number and print its reverse.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P21.cpp)
