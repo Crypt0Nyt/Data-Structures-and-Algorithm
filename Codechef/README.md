@@ -1,4 +1,4 @@
-## Here I have submitted my problem from [Codechef](https://www.codechef.com/) :
+## Here I have submitted my problems from [Codechef](https://www.codechef.com/) :
 
 
 
