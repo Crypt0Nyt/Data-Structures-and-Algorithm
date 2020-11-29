@@ -46,7 +46,7 @@ P20 - [Write a program to find sum of first and last digit of a number.](https:/
 
 P21 - [Write a program to enter a number and print its reverse.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P21.cpp)
 
-P22 - [Write a program to check whether a number is palindrome or not.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P22.cpp)
+P22 - [Write a program to  whether a number is palindrome or not.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P22.cpp)
 
 P23 - [Write a C program to find frequency of each digit in a given integer.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P23.cpp)
-
+ 
