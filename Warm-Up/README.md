@@ -48,5 +48,5 @@ P21 - [Write a program to enter a number and print its reverse.](https://github.
 
 P22 - [Write a program to  whether a number is palindrome or not.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P22.cpp)
 
-P23 - [Write a C program to find frequency of each digit in a given integer.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P23.cpp)
+P23 - [Write a C program to find frequency of each digit in a given integer.](https://github.com/Crypt0Nyt/Warm-up/blob/main/Programs/P23.cpp) 
  
