@@ -21,7 +21,7 @@ int main()
             break;
 
         case 3:
-            cout<<"Wednesday";
+            cout<<"Wednesday"; 
             break;
 
         case 4:
