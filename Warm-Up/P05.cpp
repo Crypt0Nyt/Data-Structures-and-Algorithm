@@ -1,4 +1,4 @@
-//Write a program to check whether a number is even or odd using switch case.
+//Write a program to  whether a number is even or odd using switch case.
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -23,5 +23,5 @@ int main()
             cout<<"Neither even nor odd";
 
     }
-    return 0;
+    return 0; 
 }

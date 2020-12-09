@@ -44,7 +44,7 @@ int main()
             printf("%0.3f",c);
             break;
 
-        default :
+        default : 
             cout<<":( Invalid Choice!!, You have to select operator from above!";
 
     }

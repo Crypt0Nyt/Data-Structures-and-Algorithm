@@ -23,7 +23,7 @@ int main()
 
         default:
             cout<<"Both are equal!!!";
-
+ 
     }
     return 0;
 }

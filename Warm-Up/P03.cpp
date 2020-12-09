@@ -1,4 +1,4 @@
-//Write a program to check whether an alphabet is vowel or consonant using switch case.
+//Write a program to  whether an alphabet is vowel or consonant using switch case.
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -42,7 +42,7 @@ int main()
             break;
 
         case 'U':
-            cout<<"vovel";
+            cout<<"vovel"; 
             break;
 
         default:
