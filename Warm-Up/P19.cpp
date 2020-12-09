@@ -20,3 +20,4 @@ int main()
     cout<<"The First term is ="<<first<<endl<<"and the last term of the number is ="<<last;   
     return 0;
 }
+ 
