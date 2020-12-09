@@ -5,7 +5,7 @@ int main()
 {
     int n ;
 
-    cout<<"Enter the number from which you want to print the Natural numbers in reverse order:";
+    cout<<"Enter the number from which you want to print the Natural numbers in reverse :";
     cin>>n;
 
     while(n >= 1)
@@ -17,3 +17,4 @@ int main()
 
     return 0;
 }
+ 
