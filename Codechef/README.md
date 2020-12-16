@@ -2,7 +2,9 @@
 
 
 
-## 
+#### Here first column, second column and third column contain serial number of the code, Question link and my sollution which is the question code respectively.
+
+
 
 | **S.no** | **Question**                                                              | Sollution                                                                                         |
 | -------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
@@ -116,4 +118,6 @@
 |          |                                                                           |                                                                                                   |
 |          |                                                                           |                                                                                                   |
 
-sdjj
+more to come...
+
+
