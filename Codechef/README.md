@@ -1,6 +1,5 @@
-![](C:\Users\Ghost\Desktop\pol%20project\cf\Screenshot%202020-12-19%20123934.png)
 
-****[CodeChef](https://www.codechef.com/*) - **A Platform for Aspiring Programmers*****
+****[CodeChef](https://www.codechef.com/*)
 
 | **S.no** | **Links**                                                   | **Sollution**                                                                                    |
 |:-------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
