@@ -81,7 +81,7 @@ int del(int queueDeleteF[])
 
     else
     {
-        itemDelF = queueDeleteF[front];
+        itemDelF = queueDeleteF[front]; 
         front ++;
     }
 
